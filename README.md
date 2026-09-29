@@ -1,95 +1,85 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8b9dc3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+a+Developer;Crafting+digital+experiences;One+line+at+a+time." alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
-  <h2 style="color: #8b9dc3; font-family: 'Fira Code', monospace;">~ exploring code & creativity ~</h2>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=8FA3B8&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Qaddes;Building+thoughtful+digital+experiences;Learning%2C+building%2C+improving." alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/full%20stack-developer-8b9dc3?style=flat&labelColor=dfe7f1&color=8b9dc3" />
-  <img src="https://img.shields.io/badge/passionate-learner-6b8dbf?style=flat&labelColor=dfe7f1&color=6b8dbf" />
-  <img src="https://img.shields.io/badge/open%20source-contributor-7a8fb7?style=flat&labelColor=dfe7f1&color=7a8fb7" />
+  <img src="https://img.shields.io/badge/Developer-Frontend%20%2B%20Backend-889BB2?style=flat-square&labelColor=EEF2F7&color=8FA3B8" />
+  <img src="https://img.shields.io/badge/Focused-on-Clean%20Code-7E8FA8?style=flat-square&labelColor=EEF2F7&color=7E8FA8" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%2F%20Automation-8DA7B8?style=flat-square&labelColor=EEF2F7&color=8DA7B8" />
 </p>
 
 ---
 
 ## about me
 
-i'm a developer who loves building clean, minimal products that solve real problems. i enjoy writing readable code, exploring new ideas, and learning continuously.
+I build calm, clean, and useful digital experiences with code.
+I enjoy solving problems thoughtfully, designing interfaces that feel effortless, and continuously improving the way I create.
 
-- 🔍 focused on simplicity and elegance
-- 🌱 always learning and improving
-- 💭 thoughtful about user experience
-- ✨ passionate about open source
+- 🌿 minimalist by instinct
+- 🧠 curious and always learning
+- 🎨 focused on usability and clarity
+- 🚀 building practical, scalable things
 
 ---
 
-## tech & tools
+## tech stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-8b9dc3?style=flat-square&logo=python&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/JavaScript-8b9dc3?style=flat-square&logo=javascript&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/TypeScript-8b9dc3?style=flat-square&logo=typescript&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/React-8b9dc3?style=flat-square&logo=react&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/Next.js-8b9dc3?style=flat-square&logo=nextdotjs&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/Node.js-8b9dc3?style=flat-square&logo=nodedotjs&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-8b9dc3?style=flat-square&logo=html5&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/Git-8b9dc3?style=flat-square&logo=git&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/VS%20Code-8b9dc3?style=flat-square&logo=visual-studio-code&logoColor=dfe7f1" />
-  <img src="https://img.shields.io/badge/Figma-8b9dc3?style=flat-square&logo=figma&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/Python-8FA3B8?style=flat-square&logo=python&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/JavaScript-8FA3B8?style=flat-square&logo=javascript&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/TypeScript-8FA3B8?style=flat-square&logo=typescript&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/React-8FA3B8?style=flat-square&logo=react&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/Next.js-8FA3B8?style=flat-square&logo=nextdotjs&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/Node.js-8FA3B8?style=flat-square&logo=nodedotjs&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/HTML5-8FA3B8?style=flat-square&logo=html5&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/CSS3-8FA3B8?style=flat-square&logo=css3&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/Git-8FA3B8?style=flat-square&logo=git&logoColor=F5F7FA" />
+  <img src="https://img.shields.io/badge/Figma-8FA3B8?style=flat-square&logo=figma&logoColor=F5F7FA" />
 </p>
 
 ---
 
-## latest activity
+## current focus
+
+- 🏗️ building polished web experiences
+- 📚 learning deeper engineering patterns
+- 🧩 improving UX and product thinking
+- 🤝 contributing to meaningful projects
+
+---
+
+## stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qaddes007&show_icons=true&theme=github_light&hide_border=true&bg_color=f5f5f5&text_color=6b7280&title_color=8b9dc3&icon_color=8b9dc3&count_private=true" />
-  
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=qaddes007&theme=github-light&hide_border=true&background=f5f5f5&ring=8b9dc3&fire=8b9dc3&stroke=8b9dc3&currStreakLabel=6b7280" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=qaddes007&show_icons=true&theme=github_light&hide_border=true&bg_color=F6F7F9&title_color=6E7C8F&text_color=55657A&icon_color=8FA3B8&count_private=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=qaddes007&theme=github-light&hide_border=true&background=F6F7F9&ring=8FA3B8&fire=8FA3B8&currStreakLabel=607089" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qaddes007&theme=github-light&hide_border=true&bg_color=f5f5f5&color=8b9dc3&line=8b9dc3&point=8b9dc3&area_color=8b9dc3" />
+<div align="center" style="margin-top: 16px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qaddes007&theme=github-light&hide_border=true&bg_color=F6F7F9&color=8FA3B8&line=8FA3B8&point=7E8FA8&area_color=DEE5ED" />
 </div>
 
 ---
 
-## what i'm working on
-
-- 🏗️ building scalable web applications
-- 📚 exploring new technologies
-- 🎨 focusing on clean code and design
-- 🤝 contributing to open source projects
-
----
-
-## let's connect
+## let’s connect
 
 <p align="center">
-  <a href="https://github.com/qaddes007" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-8b9dc3?style=flat-square&logo=github&logoColor=dfe7f1" />
+  <a href="https://github.com/qaddes007" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-8FA3B8?style=flat-square&logo=github&logoColor=F5F7FA" />
   </a>
-  <a href="https://linkedin.com/in/qaddes" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-8b9dc3?style=flat-square&logo=linkedin&logoColor=dfe7f1" />
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8FA3B8?style=flat-square&logo=linkedin&logoColor=F5F7FA" />
   </a>
-  <a href="mailto:qaddes007@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-8b9dc3?style=flat-square&logo=gmail&logoColor=dfe7f1" />
-  </a>
-  <a href="https://twitter.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-8b9dc3?style=flat-square&logo=twitter&logoColor=dfe7f1" />
+  <a href="mailto:qaddes007@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-8FA3B8?style=flat-square&logo=gmail&logoColor=F5F7FA" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=qaddes007&style=flat-square&label=profile+views&color=8b9dc3&labelColor=dfe7f1" />
-  
-  <p style="color: #9ca3af; font-family: 'Fira Code', monospace; font-size: 12px;">
-    thanks for stopping by ✨
+  <img src="https://komarev.com/ghpvc/?username=qaddes007&style=flat-square&label=Profile+Views&color=8FA3B8&labelColor=EEF2F7" />
+  <p style="color: #526176; font-family: 'JetBrains Mono', monospace; font-size: 12px;">
+    thanks for visiting ✨
   </p>
 </div>
