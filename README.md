@@ -1,177 +1,95 @@
-```
-████████████████████████████████████████████████████████████████████████████████
-█                                                                              █
-█  ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗  █
-█  ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗ █
-█  ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██║  ██║█████╗  ██████╔╝ █
-█  ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗ █
-█  ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██████╔╝███████╗██║  ██║ █
-█  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ █
-█                                                                              █
-████████████████████████████████████████████████████████████████████████████████
-```
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=INITIALIZING+NEURAL+INTERFACE...;%3E+CYBERNETIC+CONSCIOUSNESS+DETECTED;%3E+WELCOME+TO+THE+DIGITAL+NEXUS" alt="Terminal Boot" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8b9dc3&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+a+Developer;Crafting+digital+experiences;One+line+at+a+time." alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=800&color=0099FF&center=true&vCenter=true&width=1000&lines=%5B++DEVLOPER+%7C+ARCHITECT+%7C+INNOVATOR+%5D;%3E+CRAFTING+DIGITAL+REALITIES+IN+NEON+AND+CODE;%3E+PUSHING+SILICON+TO+ITS+LIMITS;%3E+LOADING+CONSCIOUSNESS...+" alt="Status" />
+  <h2 style="color: #8b9dc3; font-family: 'Fira Code', monospace;">~ exploring code & creativity ~</h2>
 </div>
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                           [ SYSTEM STATUS ]                                   ║
-║  ████████████████████████████████████████████████ 100% OPERATIONAL            ║
-║                                                                               ║
-║  • Neural Network: ACTIVE                                                    ║
-║  • Code Engine: OVERCLOCKED                                                  ║
-║  • Creativity Module: INFINITE                                               ║
-║  • Problem Solver: ENGAGED                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🌌 SYSTEM ARCHITECTURE
-
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/%F0%9F%94%A5%20Python-1a1a1a?style=for-the-badge&logo=python&logoColor=00FF41&color=0a0e27" /></td>
-    <td><img src="https://img.shields.io/badge/%F0%9F%9A%80%20JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=00FF41&color=0a0e27" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%9A%A1%20TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=0099FF&color=0a0e27" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&color=0a0e27" /></td>
-    <td><img src="https://img.shields.io/badge/%F0%9F%8E%A8%20React-1a1a1a?style=for-the-badge&logo=react&logoColor=00FFFF&color=0a0e27" /></td>
-    <td><img src="https://img.shields.io/badge/%E2%9C%A8%20Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=FF00FF&color=0a0e27" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/%F0%9F%94%97%20Git-1a1a1a?style=for-the-badge&logo=git&logoColor=00FF41&color=0a0e27" /></td>
-    <td><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=00FFFF&color=0a0e27" /></td>
-    <td><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%2FML-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=FF00FF&color=0a0e27" /></td>
-  </tr>
-</table>
-
----
-
-## 🎮 STAT TERMINALS
-
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=qaddes007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=0099FF&text_color=00FFFF&count_private=true" alt="Metrics" />
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=qaddes007&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FFFF" alt="Streak Counter" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qaddes007&theme=tokyo-dark&hide_border=true&bg_color=0d1117&line=00FF41&point=0099FF&area=true" alt="Activity Matrix" />
-</div>
-
----
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                    [ CORE OPERATIONAL PROTOCOLS ]                            ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 💻 **EXECUTION FRAMEWORK**
-
-```python
-class Developer:
-    def __init__(self):
-        self.mindset = "Always Innovate"
-        self.focus = ["Full-Stack Architecture", "AI Integration", "UX Excellence"]
-        self.state = "ONLINE"
-        
-    def daily_cycle(self):
-        while self.state == "ONLINE":
-            self.code()
-            self.debug()
-            self.optimize()
-            self.ship()
-            self.repeat()
-```
-
----
-
-### 🎯 **MISSION OBJECTIVES**
-
-<div align="center">
-
-| OBJECTIVE | STATUS | PROGRESS |
-|-----------|--------|----------|
-| Build Scalable Systems | 🔴 ACTIVE | ████████░░ |
-| Master AI/ML | 🟡 IN PROGRESS | ██████░░░░ |
-| Open Source Contribution | 🟢 ENGAGED | ███████░░░ |
-| Zero Technical Debt | 🔴 RELENTLESS | ████████░░ |
-
-</div>
-
----
-
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                         [ NETWORK INTERFACE ]                                ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
 
 <p align="center">
-  <a href="https://github.com/qaddes007" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB_NEXUS-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a0e27" alt="GitHub" />
+  <img src="https://img.shields.io/badge/full%20stack-developer-8b9dc3?style=flat&labelColor=dfe7f1&color=8b9dc3" />
+  <img src="https://img.shields.io/badge/passionate-learner-6b8dbf?style=flat&labelColor=dfe7f1&color=6b8dbf" />
+  <img src="https://img.shields.io/badge/open%20source-contributor-7a8fb7?style=flat&labelColor=dfe7f1&color=7a8fb7" />
+</p>
+
+---
+
+## about me
+
+i'm a developer who loves building clean, minimal products that solve real problems. i enjoy writing readable code, exploring new ideas, and learning continuously.
+
+- 🔍 focused on simplicity and elegance
+- 🌱 always learning and improving
+- 💭 thoughtful about user experience
+- ✨ passionate about open source
+
+---
+
+## tech & tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-8b9dc3?style=flat-square&logo=python&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/JavaScript-8b9dc3?style=flat-square&logo=javascript&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/TypeScript-8b9dc3?style=flat-square&logo=typescript&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/React-8b9dc3?style=flat-square&logo=react&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/Next.js-8b9dc3?style=flat-square&logo=nextdotjs&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/Node.js-8b9dc3?style=flat-square&logo=nodedotjs&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-8b9dc3?style=flat-square&logo=html5&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/Git-8b9dc3?style=flat-square&logo=git&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/VS%20Code-8b9dc3?style=flat-square&logo=visual-studio-code&logoColor=dfe7f1" />
+  <img src="https://img.shields.io/badge/Figma-8b9dc3?style=flat-square&logo=figma&logoColor=dfe7f1" />
+</p>
+
+---
+
+## latest activity
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=qaddes007&show_icons=true&theme=github_light&hide_border=true&bg_color=f5f5f5&text_color=6b7280&title_color=8b9dc3&icon_color=8b9dc3&count_private=true" />
+  
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=qaddes007&theme=github-light&hide_border=true&background=f5f5f5&ring=8b9dc3&fire=8b9dc3&stroke=8b9dc3&currStreakLabel=6b7280" />
+</div>
+
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qaddes007&theme=github-light&hide_border=true&bg_color=f5f5f5&color=8b9dc3&line=8b9dc3&point=8b9dc3&area_color=8b9dc3" />
+</div>
+
+---
+
+## what i'm working on
+
+- 🏗️ building scalable web applications
+- 📚 exploring new technologies
+- 🎨 focusing on clean code and design
+- 🤝 contributing to open source projects
+
+---
+
+## let's connect
+
+<p align="center">
+  <a href="https://github.com/qaddes007" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-8b9dc3?style=flat-square&logo=github&logoColor=dfe7f1" />
   </a>
-  <a href="https://linkedin.com/in/qaddes" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-0099FF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0e27" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/qaddes" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-8b9dc3?style=flat-square&logo=linkedin&logoColor=dfe7f1" />
   </a>
-  <a href="mailto:qaddes007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/SECURE_MAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0a0e27" alt="Email" />
+  <a href="mailto:qaddes007@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-8b9dc3?style=flat-square&logo=gmail&logoColor=dfe7f1" />
+  </a>
+  <a href="https://twitter.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-8b9dc3?style=flat-square&logo=twitter&logoColor=dfe7f1" />
   </a>
 </p>
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                      [ CONSCIOUSNESS MATRIX ]                                ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-
-  > NEURAL PATHWAY ANALYSIS...
-  > SYNAPSE OPTIMIZATION: 99.7%
-  > CREATIVE FREQUENCY: MAXIMUM
-  > PROBLEM-SOLVING CAPACITY: UNLIMITED
-  > STATUS: READY FOR ANYTHING
-```
-
----
-
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=qaddes007&style=flat-square&label=profile+views&color=8b9dc3&labelColor=dfe7f1" />
   
-```
-██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██╗     ██╗    ██╗███████╗███████╗██╗  ██╗███████╗██████╗ 
-██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██║     ██║    ██║██╔════╝██╔════╝██║  ██║██╔════╝██╔══██╗
-██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██║     ██║ █╗ ██║█████╗  █████╗  ███████║█████╗  ██║  ██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║     ██║███╗██║██╔══╝  ██╔══╝  ██╔══██║██╔══╝  ██║  ██║
-██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝███████╗╚███╔███╔╝███████╗███████╗██║  ██║███████╗██████╔╝
-╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚══════╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
-```
-
-**[ INITIALIZATION COMPLETE ]**
-
-_Crafted in neon light, powered by infinite curiosity, and fueled by the drive to revolutionize technology._
-
+  <p style="color: #9ca3af; font-family: 'Fira Code', monospace; font-size: 12px;">
+    thanks for stopping by ✨
+  </p>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=qaddes007&style=flat-square&label=SESSIONS+TRACKED&color=00FF41&labelColor=0a0e27" alt="Visitor Counter" />
-  
-  <br><br>
-  
-  **[ LAST BOOT: 2026 ] [ SYSTEMS NOMINAL ]**
-</div>
-
-```
-████████████████████████████████████████████████████████████████████████████████
-```
