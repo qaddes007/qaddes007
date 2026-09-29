@@ -1,105 +1,177 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Qaddes+%F0%9F%91%8B;Full-Stack+Developer;Problem+Solver;Coding+with+passion+and+purpose" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Qaddes%20Developer&fontSize=40&height=220&animation=twinkling&fontColor=E5E7EB&backgroundColor=0B1021&color=7C3AED,0EA5E9,22C55E" alt="Banner" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-7C3AED?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20JavaScript-0EA5E9?style=for-the-badge" alt="Code" />
-  <img src="https://img.shields.io/badge/Building-Scalable%20Products-22C55E?style=for-the-badge" alt="Building" />
-</p>
-
-<hr>
-
-<h3 align="center">⚡ I turn ideas into clean, useful, and modern digital experiences.</h3>
-
-<p align="center">
-  I love solving real-world problems with code, building responsive interfaces, and creating tools that make work easier and more enjoyable.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Developer-Frontend%20%2B%20Backend-111827?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Learning-AI%20%2F%20Automation-111827?style=flat-square&logo=rocket" />
-  <img src="https://img.shields.io/badge/Passion-Creativity%20%2B%20Code-111827?style=flat-square&logo=code" />
-</p>
-
-<hr>
-
-## 🧠 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
-<hr>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qaddes007&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=qaddes007&theme=radical&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qaddes007&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
-</div>
-
-<hr>
-
-## 🧩 What I Do
-
-- Build modern web applications with excellent UX
-- Write clean, maintainable, and scalable code
-- Explore automation, AI, and smart developer workflows
-- Turn ideas into polished products
-- Keep improving through learning and experimentation
-
-<hr>
-
-## 🚀 Current Coding Mood
-
-```bash
-while true;
-  code();
-  debug();
-  refine();
-  repeat();
+```
+████████████████████████████████████████████████████████████████████████████████
+█                                                                              █
+█  ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗  █
+█  ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗ █
+█  ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██║  ██║█████╗  ██████╔╝ █
+█  ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║  ██║██╔══╝  ██╔══██╗ █
+█  ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██████╔╝███████╗██║  ██║ █
+█  ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ █
+█                                                                              █
+████████████████████████████████████████████████████████████████████████████████
 ```
 
-<hr>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=32&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=INITIALIZING+NEURAL+INTERFACE...;%3E+CYBERNETIC+CONSCIOUSNESS+DETECTED;%3E+WELCOME+TO+THE+DIGITAL+NEXUS" alt="Terminal Boot" />
+</div>
 
-## 🌍 Let’s Connect
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=4000&pause=800&color=0099FF&center=true&vCenter=true&width=1000&lines=%5B++DEVLOPER+%7C+ARCHITECT+%7C+INNOVATOR+%5D;%3E+CRAFTING+DIGITAL+REALITIES+IN+NEON+AND+CODE;%3E+PUSHING+SILICON+TO+ITS+LIMITS;%3E+LOADING+CONSCIOUSNESS...+" alt="Status" />
+</div>
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                           [ SYSTEM STATUS ]                                   ║
+║  ████████████████████████████████████████████████ 100% OPERATIONAL            ║
+║                                                                               ║
+║  • Neural Network: ACTIVE                                                    ║
+║  • Code Engine: OVERCLOCKED                                                  ║
+║  • Creativity Module: INFINITE                                               ║
+║  • Problem Solver: ENGAGED                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🌌 SYSTEM ARCHITECTURE
+
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/%F0%9F%94%A5%20Python-1a1a1a?style=for-the-badge&logo=python&logoColor=00FF41&color=0a0e27" /></td>
+    <td><img src="https://img.shields.io/badge/%F0%9F%9A%80%20JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=00FF41&color=0a0e27" /></td>
+    <td><img src="https://img.shields.io/badge/%E2%9A%A1%20TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=0099FF&color=0a0e27" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Node.js-1a1a1a?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&color=0a0e27" /></td>
+    <td><img src="https://img.shields.io/badge/%F0%9F%8E%A8%20React-1a1a1a?style=for-the-badge&logo=react&logoColor=00FFFF&color=0a0e27" /></td>
+    <td><img src="https://img.shields.io/badge/%E2%9C%A8%20Next.js-1a1a1a?style=for-the-badge&logo=nextdotjs&logoColor=FF00FF&color=0a0e27" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/%F0%9F%94%97%20Git-1a1a1a?style=for-the-badge&logo=git&logoColor=00FF41&color=0a0e27" /></td>
+    <td><img src="https://img.shields.io/badge/%F0%9F%8E%AE%20Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=00FFFF&color=0a0e27" /></td>
+    <td><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%2FML-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=FF00FF&color=0a0e27" /></td>
+  </tr>
+</table>
+
+---
+
+## 🎮 STAT TERMINALS
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=qaddes007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=0099FF&text_color=00FFFF&count_private=true" alt="Metrics" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=qaddes007&theme=tokyonight&hide_border=true&background=0d1117&ring=00FF41&fire=FF00FF&currStreakLabel=00FFFF" alt="Streak Counter" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qaddes007&theme=tokyo-dark&hide_border=true&bg_color=0d1117&line=00FF41&point=0099FF&area=true" alt="Activity Matrix" />
+</div>
+
+---
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                    [ CORE OPERATIONAL PROTOCOLS ]                            ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### 💻 **EXECUTION FRAMEWORK**
+
+```python
+class Developer:
+    def __init__(self):
+        self.mindset = "Always Innovate"
+        self.focus = ["Full-Stack Architecture", "AI Integration", "UX Excellence"]
+        self.state = "ONLINE"
+        
+    def daily_cycle(self):
+        while self.state == "ONLINE":
+            self.code()
+            self.debug()
+            self.optimize()
+            self.ship()
+            self.repeat()
+```
+
+---
+
+### 🎯 **MISSION OBJECTIVES**
+
+<div align="center">
+
+| OBJECTIVE | STATUS | PROGRESS |
+|-----------|--------|----------|
+| Build Scalable Systems | 🔴 ACTIVE | ████████░░ |
+| Master AI/ML | 🟡 IN PROGRESS | ██████░░░░ |
+| Open Source Contribution | 🟢 ENGAGED | ███████░░░ |
+| Zero Technical Debt | 🔴 RELENTLESS | ████████░░ |
+
+</div>
+
+---
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                         [ NETWORK INTERFACE ]                                ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
   <a href="https://github.com/qaddes007" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB_NEXUS-00FF41?style=for-the-badge&logo=github&logoColor=000000&labelColor=0a0e27" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/qaddes" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-0099FF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=0a0e27" alt="LinkedIn" />
   </a>
   <a href="mailto:qaddes007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/SECURE_MAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=0a0e27" alt="Email" />
   </a>
 </p>
 
+---
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                      [ CONSCIOUSNESS MATRIX ]                                ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+
+  > NEURAL PATHWAY ANALYSIS...
+  > SYNAPSE OPTIMIZATION: 99.7%
+  > CREATIVE FREQUENCY: MAXIMUM
+  > PROBLEM-SOLVING CAPACITY: UNLIMITED
+  > STATUS: READY FOR ANYTHING
+```
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=qaddes007&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile views" />
+  
+```
+██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██╗     ██╗    ██╗███████╗███████╗██╗  ██╗███████╗██████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██║     ██║    ██║██╔════╝██╔════╝██║  ██║██╔════╝██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██║     ██║ █╗ ██║█████╗  █████╗  ███████║█████╗  ██║  ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██║     ██║███╗██║██╔══╝  ██╔══╝  ██╔══██║██╔══╝  ██║  ██║
+██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝███████╗╚███╔███╔╝███████╗███████╗██║  ██║███████╗██████╔╝
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚══════╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝ 
+```
+
+**[ INITIALIZATION COMPLETE ]**
+
+_Crafted in neon light, powered by infinite curiosity, and fueled by the drive to revolutionize technology._
+
 </div>
 
-<hr>
+---
 
-<p align="center">
-  <em>Built with passion, creativity, and lots of coffee ☕</em>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=qaddes007&style=flat-square&label=SESSIONS+TRACKED&color=00FF41&labelColor=0a0e27" alt="Visitor Counter" />
+  
+  <br><br>
+  
+  **[ LAST BOOT: 2026 ] [ SYSTEMS NOMINAL ]**
+</div>
+
+```
+████████████████████████████████████████████████████████████████████████████████
+```
